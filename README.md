@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding using Copilots and building products
 - 💞️ I’m looking to collaborate on building tech startups
 - 📫 How to reach me ... Leave a message. Is there a message feature on Github?
-- 😄 Pronouns: ... Don't belive in them. I am friend to everyone.
+- 😄 Pronouns: ... Don't belive in them. I am friends with everyone.
 - ⚡ Fun fact: ... I was the best coder in my class in 2003-04. :D
 
 <!---
